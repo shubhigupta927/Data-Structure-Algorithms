@@ -1,6 +1,5 @@
-## Implement 'N' Stacks In An Array
+# Implement 'N' Stacks In An Array
 ```cpp
-#include <bits/stdc++.h> 
 class NStack
 {
 public:
