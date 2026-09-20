@@ -1,5 +1,5 @@
 # The Celebrity Problem
-## Approach 1
+## Approach 1 - Using Array
 
 ```cpp
 class Solution {
@@ -27,7 +27,7 @@ class Solution {
 };
 ```
 
-## Approach 2
+## Approach 2 - Using Stack
 ```cpp
 class Solution {
   public:
